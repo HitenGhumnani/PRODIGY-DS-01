@@ -2,7 +2,7 @@
 
 For the visualisation of data I have used excel.
 
-I have used my sample data which includes 100 people.
+I have used my sample data which includes 100 people. The data is given in this repository by the name "sample data.xlsx"
 
 Here I have used a bar chart.
 
